@@ -8,6 +8,6 @@ For interviewBit Solutions. [clickHere](https://github.com/pranjal021/InterviewB
 - [x] September'20 LeetCode-Challenge
 - [x] October'20 LeetCode-Challenge
 - [x] November'20 LeetCode-Challenge
-- [ ] December'20 LeetCode-Challenge
+- [x] December'20 LeetCode-Challenge
 
 
