@@ -9,5 +9,6 @@ For interviewBit Solutions. [clickHere](https://github.com/pranjal021/InterviewB
 - [x] October'20 LeetCode-Challenge
 - [x] November'20 LeetCode-Challenge
 - [x] December'20 LeetCode-Challenge
-- [ ] January'21 LeetCode-Challenge
+- [x] January'21 LeetCode-Challenge
+- [ ] February'21 LeetCode-Challenge
 
